@@ -1,0 +1,5 @@
+Abhi	Jajal	7740 McCallum	Dallas	TX	67676-	M	781787287	abhi@gmail.com	Yes	09/22/2019	4:23:59 PM	4:24:34 PM	4
+Raj	P	Desai	7652 Frankford	Apt 218	Dallas	TX	78787-	M	217871	Raj@Desai.com	Yes	09/22/2019	4:24:38 PM	4:25:14 PM	22
+Vraj	K	Mehta	7878 Ruthford	Apt 99	Huston	TX	71228-1289	M	1278989	jay@mehta.com	No	09/22/2019	4:25:32 PM	4:26:11 PM	9
+Jay	Mehta	89891 John	Austin	TX	17281-	M	127	absj@anjd.com	No	09/22/2019	4:26:17 PM	4:27:17 PM	25
+Dinesh	Trivedi	6172 Ashwood	Dallas	TX	75252-	M	717827187	het@trivedi.com	No	09/22/2019	4:27:51 PM	4:29:01 PM	10

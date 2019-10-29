@@ -1,0 +1,10 @@
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\bin\Debug\Asg2-apj180001.exe.config
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\bin\Debug\Asg2-apj180001.exe
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\bin\Debug\Asg2-apj180001.pdb
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2-apj180001.csprojAssemblyReference.cache
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2_apj180001.Form1.resources
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2_apj180001.Properties.Resources.resources
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2-apj180001.csproj.GenerateResource.cache
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2-apj180001.csproj.CoreCompileInputs.cache
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2-apj180001.exe
+C:\Users\abhij\source\repos\Asg2-apj180001\Asg2-apj180001\obj\Debug\Asg2-apj180001.pdb
